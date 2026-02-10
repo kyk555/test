@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git branch:*)",
+      "mcp__github__get_me",
+      "mcp__github__create_repository",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(gh repo create:*)"
+    ]
+  }
+}
